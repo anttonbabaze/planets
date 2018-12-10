@@ -1,0 +1,4 @@
+nacido 1993
+cole 1998
+Instituto 2009
+carrera 2012
